@@ -38,5 +38,9 @@
   },
   "scripts": {
     "test": "mocha"
+  },
+  "browser": {
+    "fs": false,
+    "path": false
   }
 }
